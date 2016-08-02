@@ -2,7 +2,10 @@
 
 Usage: 
 
-`require('extratorrent.php)`
-`$ex = new extratorrent();`
-`$results = $ex->search('The Lord of the Rings');`
+```
+require('extratorrent.php)
+$ex = new extratorrent();
+$results = $ex->search('The Lord of the Rings');
+```
+
 
