@@ -1,4 +1,4 @@
-#extratorrent.cc API
+## extratorrent.cc API
 
 Usage: 
 
